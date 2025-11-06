@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Strix
+Strix 
 </h1>
 
 <h2 align="center">Open-source AI Hackers to secure your Apps</h2>
@@ -21,6 +21,9 @@ Strix
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/J48Fzuh7)
 [![Website](https://img.shields.io/badge/Website-usestrix.com-2d3748.svg)](https://usestrix.com)
 
+---
+[📘 Persian README (فارسی)](README_FA.md)
+---
 </div>
 
 :star: _Love Strix? Give us a star to help other developers discover it!_
